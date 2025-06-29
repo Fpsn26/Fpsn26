@@ -50,5 +50,5 @@ Tenho estudado diariamente temas como orientação a objetos, APIs REST, Spring 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fpsn26&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fpsn26&show_icons=true&theme=default" alt="GitHub Stats"/>
 </p>
