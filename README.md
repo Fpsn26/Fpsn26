@@ -47,10 +47,13 @@ Tenho estudado diariamente temas como orientação a objetos, APIs REST, Spring 
   <a href = "felipesanchesnunes26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-sanches-nunes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fpsn26&show_icons=true&theme=default" alt="GitHub Stats"/>
-</p>
+ <div>
+   <a href="https://github.com/Fpsn26">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fpsn26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fpsn26&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
