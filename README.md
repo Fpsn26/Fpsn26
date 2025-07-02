@@ -26,10 +26,6 @@ Tenho estudado diariamente temas como orientação a objetos, APIs REST, Spring 
 - 🛠️ Ferramentas em uso: Intellij · VsCode · Postman · GitHub
 - 📍 Localização: Morrinhos - GO
 
-<div style="display: inline_block"><br>
-  [![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
-</div>
-
 ---
 
 ## 🚧 Projetos em construção
