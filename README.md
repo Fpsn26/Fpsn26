@@ -25,7 +25,10 @@ Tenho estudado diariamente temas como orientação a objetos, APIs REST, Spring 
 - 📚 Atualmente estudando: Java, Spring Boot, MySQL, Git
 - 🛠️ Ferramentas em uso: Intellij · VsCode · Postman · GitHub
 - 📍 Localização: Morrinhos - GO
-- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/felipe-sanches-nunes) · [Email](felipesanchesnunes26@gmail.com)
+
+<div style="display: inline_block"><br>
+  [![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
+</div>
 
 ---
 
@@ -41,7 +44,7 @@ Tenho estudado diariamente temas como orientação a objetos, APIs REST, Spring 
 
 ---
 
-## 📎 Links Importantes
+## 📎 Links Para Contato
 <div> 
   <a href="https://www.instagram.com/fpsn26_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "felipesanchesnunes26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
