@@ -30,13 +30,7 @@ Tenho estudado diariamente temas como orientação a objetos, APIs REST, Spring 
 
 ## 🚧 Projetos em construção
 
-> Conforme avanço nos estudos, vou desenvolvendo projetos práticos e incrementais.
-
-- [ ] API de Lista de Tarefas (CRUD com Java puro)
-- [ ] API REST com Spring Boot e banco de dados MySQL
-- [ ] Sistema de Clínica Médica (CRUD completo)
-- [ ] Autenticação JWT + Spring Security
-- [ ] Deploy das APIs em Render + documentação
+- [ ] Sistema de estoque de farmácia com Java, Spring Boot e MySQL
 
 ---
 
