@@ -30,6 +30,7 @@ Tenho estudado diariamente temas como orientação a objetos, APIs REST, Spring 
 
 ## 🚧 Projetos em construção
 
+- [ ] Banco em java: https://github.com/Fpsn26/java-bank
 - [ ] Sistema de estoque de farmácia com Java, Spring Boot e MySQL
 
 ---
